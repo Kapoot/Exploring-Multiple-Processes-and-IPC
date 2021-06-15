@@ -1,0 +1,85 @@
+.0
+
+1   // Load 60='<' [arm]
+60
+9   // Put 2
+2
+1   // Load 40='('
+40
+9   // Put 2
+2
+1   // Load 94='^'
+94
+9   // Put 2
+2
+1   // Load 117=u
+117
+9   // Put 2
+2
+1   // Load 94='^'
+94
+9   // Put 2
+2
+1   // Load 41=')'
+41
+9   // Put 2
+2
+1   // Load 62='>' [arm]
+62
+9   // Put 2
+2
+
+
+
+1   // Load 10=newline
+10 
+9   // Put 2
+2
+
+
+//20+22=42
+1 //Load 1
+20
+9 //Put 1 (int)
+1
+
+
+1 //Load 43='+'
+43
+9 //Put 2 (int)
+2
+
+
+1 //Load 22
+22
+9 //Put 1 (int)
+1
+
+
+1 //Load 61='='
+61
+9 //Put 2 (int)
+2
+
+//Do the addition in the following lines
+1 //Load 20
+20
+
+14 //Copy AC to X
+1 //Load 22
+22
+
+10 //Add X to AC
+9 //print as int
+1
+
+
+
+
+
+50  // End 
+1   // Load 10=newline
+10 
+9   // Put 2
+2
+24  // Return
